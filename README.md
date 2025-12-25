@@ -1,5 +1,7 @@
 ## Hi, I'm Lyrics
 
+Checkout my portfolio website here: 👉 https://iamjamiu.fly.dev
+
 I build reliable web applications for people and businesses that need things done properly.
 
 My work focuses on:
